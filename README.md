@@ -1,3 +1,3 @@
 # TaskList
 
-Technology: HTML, CSS and JavaScript.
+Technology: HTML and JavaScript.
